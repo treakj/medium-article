@@ -105,3 +105,25 @@ h3 {
   font-size: 16px;
   font-weight: lighter;
 }
+
+
+.card {
+  margin: 20 0;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.social{
+  color: 8f384d;
+  font-size: 18px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
